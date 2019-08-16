@@ -1,10 +1,9 @@
 package threading;
 
-
 import java.util.*;
 
 
-class Test1{
+class Test{
   
   static boolean Prime(int n){
       for(int i=2; i<= Math.sqrt(n); i++){
